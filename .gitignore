@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output/
+uploads_result/
+vibe_images/
+api_result.png
+.u2net/
